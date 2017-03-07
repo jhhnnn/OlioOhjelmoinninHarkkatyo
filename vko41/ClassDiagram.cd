@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Henkilo">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAQYAAgAAAAAAMABEAAAAAACAAAAAAEABYAA=</HashCode>
+      <FileName>Henkilo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Opettaja">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Opettaja.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Opiskelija">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Opiskelija.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sihteeri">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAggAAAAAEABAAAAAAAAAAAAAAAAAAQQ=</HashCode>
+      <FileName>Sihteeri.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tyontekija">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAABAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Tyontekija.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
